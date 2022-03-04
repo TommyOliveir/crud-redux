@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.addnav {
+  width: 700px;
+  margin: auto;
+  padding: 2rem;
+  text-align: left;
+}
+.addnav input {
+  margin: 1rem 0px;
+}
+
+.displayUsers h1,
+h2 {
+  color: #204a6e;
+  display: inline;
+}
+
+.displayEachUsers {
+  /* border: 1px solid #251905; */
+  width: 700px;
+  margin: 0px auto;
+  padding: 2rem;
+  /* border-radius: 10px; */
+  /* -webkit-box-shadow: 4px 4px 12px -4px rgba(0,0,0,0.66); 
+  box-shadow: 4px 4px 12px -4px rgba(0,0,0,0.66); */
+  background-color: #add8e6;
+  text-align: left;
+}
+.displayEachUsers input,
+button {
+  margin: 1rem 0px;
+}
+.displayEachUsers button {
+  margin-right: 1rem;
+}
